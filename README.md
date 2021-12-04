@@ -14,4 +14,5 @@ or for system-wide
 
 You can then select cursor in your respective mouse settings.
 
+# Credits
 You can obtain the original copy from here: https://store.kde.org/p/1197403/
